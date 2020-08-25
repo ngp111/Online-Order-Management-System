@@ -1,0 +1,28 @@
+import sys
+import argparse
+import quickfix44 as fix44
+import quickfix
+from application import Application
+
+def main(config_file):
+	try:
+		settings = quickfix.SessionSettings(config_file)
+		application = Application()
+		storefactory = quickfix.FileStoreFactory(settings)
+		logfactory = quickfix.FileLogFactory(settings)
+		initiator = quickfix.SocketInitiator(application, storefactory, settings, logfactory)
+        
+
+		initiator.start()
+		application.run()
+		initiator.stop()
+
+	except (quickfix.ConfigError, quickfix.RuntimeError) as e:
+		print(e)
+		sys.exit()
+
+if __name__=='__main__':
+    parser = argparse.ArgumentParser(description='FIX Client')
+    parser.add_argument('file_name', type=str, help='Name of configuration file')
+    args = parser.parse_args()
+    main(args.file_name)

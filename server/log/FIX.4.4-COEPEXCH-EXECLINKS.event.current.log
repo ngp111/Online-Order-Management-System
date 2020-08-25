@@ -1,0 +1,1071 @@
+20200612-03:03:18.026150000 : Created session
+20200612-03:03:30.737316000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20200612-03:03:30.738376000 : Received logon request
+20200612-03:03:30.738847000 : Responding to logon request
+20200612-03:03:30.838045000 : Socket Error: Connection reset by peer.
+20200612-03:03:30.838231000 : Disconnecting
+20200612-03:14:00.636925000 : Created session
+20200612-03:22:36.793943000 : MsgSeqNum too low, expecting 2 but received 1
+20200612-03:22:36.793957000 : Disconnecting
+20200612-03:22:53.025242000 : Received logon request
+20200612-03:22:53.025339000 : Responding to logon request
+20200612-03:22:53.025350000 : MsgSeqNum too high, expecting 2 but received 4
+20200612-03:22:53.025460000 : Sent ResendRequest FROM: 2 TO: 0
+20200612-03:22:53.025631000 : Received ResendRequest FROM: 2 TO: 0
+20200612-03:22:53.025744000 : Sent SequenceReset TO: 5
+20200612-03:22:53.025867000 : Received SequenceReset FROM: 2 TO: 6
+20200612-03:22:53.026162000 : Socket Error: Connection reset by peer.
+20200612-03:22:53.026219000 : Disconnecting
+20200612-03:23:21.595381000 : Received logon request
+20200612-03:23:21.595598000 : Responding to logon request
+20200612-03:24:45.312245000 : Created session
+20200612-03:24:56.317491000 : Received logon request
+20200612-03:24:56.317616000 : Responding to logon request
+20200612-03:24:56.317630000 : MsgSeqNum too high, expecting 21 but received 25
+20200612-03:24:56.317734000 : Sent ResendRequest FROM: 21 TO: 0
+20200612-03:24:56.321203000 : Received SequenceReset FROM: 22 TO: 23
+20200612-03:24:56.322453000 : ResendRequest for messages FROM: 21 TO: 24 has been satisfied.
+20200612-03:24:56.323506000 : Processing QUEUED message: 25
+20200612-03:26:36.903927000 : Socket Error: Connection reset by peer.
+20200612-03:26:36.904007000 : Disconnecting
+20200612-03:30:33.416442000 : Created session
+20200612-03:30:37.139045000 : Received logon request
+20200612-03:30:37.139161000 : Responding to logon request
+20200612-03:30:54.443702000 : Socket Error: Connection reset by peer.
+20200612-03:30:54.444057000 : Disconnecting
+20200612-03:31:54.903455000 : Created session
+20200612-03:31:57.353404000 : Received logon request
+20200612-03:31:57.353570000 : Responding to logon request
+20200612-03:37:05.481386000 : Created session
+20200612-03:37:09.017999000 : Received logon request
+20200612-03:37:09.018162000 : Responding to logon request
+20200612-03:37:22.488796000 : Socket Error: Connection reset by peer.
+20200612-03:37:22.488867000 : Disconnecting
+20200612-03:38:14.856634000 : Created session
+20200612-03:38:18.209928000 : Received logon request
+20200612-03:38:18.210090000 : Responding to logon request
+20200612-03:39:06.149364000 : Created session
+20200612-03:39:09.734945000 : Received logon request
+20200612-03:39:09.735102000 : Responding to logon request
+20200612-03:39:24.168911000 : Socket Error: Connection reset by peer.
+20200612-03:39:24.168978000 : Disconnecting
+20200612-03:39:30.665303000 : Received logon request
+20200612-03:39:30.665450000 : Responding to logon request
+20200612-03:40:39.581635000 : Created session
+20200612-03:40:41.235398000 : Received logon request
+20200612-03:40:41.235555000 : Responding to logon request
+20200612-03:40:41.235565000 : MsgSeqNum too high, expecting 83 but received 84
+20200612-03:40:41.235668000 : Sent ResendRequest FROM: 83 TO: 0
+20200612-03:40:41.236097000 : ResendRequest for messages FROM: 83 TO: 83 has been satisfied.
+20200612-03:40:41.236735000 : Processing QUEUED message: 84
+20200612-03:40:46.488978000 : Socket Error: Connection reset by peer.
+20200612-03:40:46.489058000 : Disconnecting
+20200612-03:42:08.428255000 : Created session
+20200612-03:42:14.253761000 : Received logon request
+20200612-03:42:14.253878000 : Responding to logon request
+20200612-03:45:05.656551000 : Created session
+20200612-03:45:07.055352000 : Received logon request
+20200612-03:45:07.055511000 : Responding to logon request
+20200612-03:45:11.707852000 : Socket Error: Connection reset by peer.
+20200612-03:45:11.708104000 : Disconnecting
+20200612-03:46:13.137157000 : Created session
+20200612-03:46:15.966941000 : Received logon request
+20200612-03:46:15.967059000 : Responding to logon request
+20200612-03:46:30.633489000 : Socket Error: Connection reset by peer.
+20200612-03:46:30.633571000 : Disconnecting
+20200612-03:47:45.648303000 : Created session
+20200612-03:47:48.118030000 : Received logon request
+20200612-03:47:48.118193000 : Responding to logon request
+20200612-03:48:01.559179000 : Socket Error: Connection reset by peer.
+20200612-03:48:01.559330000 : Disconnecting
+20200612-03:48:18.560473000 : Created session
+20200612-03:48:20.835283000 : Received logon request
+20200612-03:48:20.835398000 : Responding to logon request
+20200612-03:54:03.781745000 : Created session
+20200612-03:54:13.041810000 : Received logon request
+20200612-03:54:13.041927000 : Responding to logon request
+20200612-03:55:08.501268000 : Created session
+20200612-03:55:11.834095000 : Received logon request
+20200612-03:55:11.834273000 : Responding to logon request
+20200612-03:55:11.834286000 : MsgSeqNum too high, expecting 112 but received 120
+20200612-03:55:11.834399000 : Sent ResendRequest FROM: 112 TO: 0
+20200612-03:55:24.331687000 : Created session
+20200612-03:55:26.249498000 : Received logon request
+20200612-03:55:26.249654000 : Responding to logon request
+20200612-03:55:26.249670000 : MsgSeqNum too high, expecting 112 but received 123
+20200612-03:55:26.249791000 : Sent ResendRequest FROM: 112 TO: 0
+20200612-03:56:02.236057000 : Created session
+20200612-03:56:05.944546000 : Received logon request
+20200612-03:56:05.944707000 : Responding to logon request
+20200612-03:56:05.944719000 : MsgSeqNum too high, expecting 112 but received 130
+20200612-03:56:05.944822000 : Sent ResendRequest FROM: 112 TO: 0
+20200612-03:56:28.555050000 : Created session
+20200612-03:56:31.603289000 : Received logon request
+20200612-03:56:31.603444000 : Responding to logon request
+20200612-03:56:31.603456000 : MsgSeqNum too high, expecting 112 but received 134
+20200612-03:56:31.603557000 : Sent ResendRequest FROM: 112 TO: 0
+20200612-03:56:31.604759000 : Received SequenceReset FROM: 113 TO: 114
+20200612-03:56:31.606725000 : Received SequenceReset FROM: 117 TO: 118
+20200612-03:56:31.607711000 : Received SequenceReset FROM: 120 TO: 121
+20200612-03:56:31.608685000 : Received SequenceReset FROM: 123 TO: 125
+20200612-03:56:31.610516000 : Received SequenceReset FROM: 129 TO: 131
+20200612-03:56:31.612775000 : ResendRequest for messages FROM: 112 TO: 133 has been satisfied.
+20200612-03:56:31.613221000 : Processing QUEUED message: 134
+20200612-03:58:43.416785000 : Created session
+20200612-04:07:34.790788000 : Created session
+20200612-04:07:38.140065000 : Received logon request
+20200612-04:07:38.140224000 : Responding to logon request
+20200612-04:07:52.852925000 : Socket Error: Connection reset by peer.
+20200612-04:07:52.853006000 : Disconnecting
+20200612-04:08:24.898872000 : Created session
+20200612-04:08:29.423442000 : Received logon request
+20200612-04:08:29.423608000 : Responding to logon request
+20200612-04:08:42.139884000 : Socket Error: Connection reset by peer.
+20200612-04:08:42.140154000 : Disconnecting
+20200612-04:08:59.195309000 : Created session
+20200612-04:09:01.859404000 : Received logon request
+20200612-04:09:01.859570000 : Responding to logon request
+20200612-04:09:23.019871000 : Socket Error: Connection reset by peer.
+20200612-04:09:23.020152000 : Disconnecting
+20200612-04:10:16.496065000 : Created session
+20200612-04:10:18.519654000 : Received logon request
+20200612-04:10:18.519825000 : Responding to logon request
+20200612-04:10:34.170472000 : Created session
+20200612-04:10:39.119428000 : Received logon request
+20200612-04:10:39.119587000 : Responding to logon request
+20200612-04:10:39.119600000 : MsgSeqNum too high, expecting 199 but received 201
+20200612-04:10:39.119700000 : Sent ResendRequest FROM: 199 TO: 0
+20200612-04:10:39.121504000 : ResendRequest for messages FROM: 199 TO: 200 has been satisfied.
+20200612-04:10:39.122550000 : Processing QUEUED message: 201
+20200612-04:10:50.536803000 : Socket Error: Connection reset by peer.
+20200612-04:10:50.536890000 : Disconnecting
+20200612-04:11:07.801990000 : Created session
+20200612-04:11:09.003238000 : Received logon request
+20200612-04:11:09.003352000 : Responding to logon request
+20200612-04:11:22.201387000 : Socket Error: Connection reset by peer.
+20200612-04:11:22.201474000 : Disconnecting
+20200612-04:11:36.792480000 : Created session
+20200612-04:11:38.588463000 : Received logon request
+20200612-04:11:38.588576000 : Responding to logon request
+20200612-04:11:53.916730000 : Socket Error: Connection reset by peer.
+20200612-04:11:53.916993000 : Disconnecting
+20200612-04:12:31.529597000 : Created session
+20200612-04:12:33.082229000 : Received logon request
+20200612-04:12:33.082361000 : Responding to logon request
+20200612-04:12:44.585378000 : Socket Error: Connection reset by peer.
+20200612-04:12:44.585450000 : Disconnecting
+20200612-04:38:00.506709000 : Created session
+20200612-04:38:17.128095000 : Received logon request
+20200612-04:38:17.128269000 : Responding to logon request
+20200612-04:39:14.637644000 : Socket Error: Connection reset by peer.
+20200612-04:39:14.637828000 : Disconnecting
+20200612-04:40:32.185711000 : Created session
+20200612-04:40:33.754164000 : Received logon request
+20200612-04:40:33.754358000 : Responding to logon request
+20200612-04:40:40.835503000 : Socket Error: Connection reset by peer.
+20200612-04:40:40.835760000 : Disconnecting
+20200612-04:40:57.605653000 : Created session
+20200612-04:40:58.715536000 : Received logon request
+20200612-04:40:58.715700000 : Responding to logon request
+20200612-04:42:26.967503000 : Created session
+20200612-04:42:29.380925000 : Received logon request
+20200612-04:42:29.381109000 : Responding to logon request
+20200612-04:44:00.857651000 : Created session
+20200612-04:44:02.633289000 : Received logon request
+20200612-04:44:02.633478000 : Responding to logon request
+20200612-04:44:02.633491000 : MsgSeqNum too high, expecting 254 but received 262
+20200612-04:44:02.633608000 : Sent ResendRequest FROM: 254 TO: 0
+20200612-04:44:02.637641000 : Received SequenceReset FROM: 257 TO: 258
+20200612-04:44:02.639610000 : Received SequenceReset FROM: 260 TO: 261
+20200612-04:44:02.639806000 : ResendRequest for messages FROM: 254 TO: 261 has been satisfied.
+20200612-04:44:02.640853000 : Processing QUEUED message: 262
+20200612-04:46:37.493435000 : Created session
+20200612-04:46:39.489055000 : Received logon request
+20200612-04:46:39.489240000 : Responding to logon request
+20200612-04:57:15.162339000 : Created session
+20200612-04:57:16.986406000 : Received logon request
+20200612-04:57:16.986579000 : Responding to logon request
+20200612-04:57:38.968297000 : Socket Error: Connection reset by peer.
+20200612-04:57:38.968565000 : Disconnecting
+20200612-04:58:19.313680000 : Created session
+20200612-04:58:20.932995000 : Received logon request
+20200612-04:58:20.933174000 : Responding to logon request
+20200612-04:58:32.822967000 : Socket Error: Connection reset by peer.
+20200612-04:58:32.823215000 : Disconnecting
+20200612-04:59:01.556098000 : Created session
+20200612-04:59:03.110478000 : Received logon request
+20200612-04:59:03.110684000 : Responding to logon request
+20200612-04:59:08.512933000 : Socket Error: Connection reset by peer.
+20200612-04:59:08.513258000 : Disconnecting
+20200612-05:02:26.741940000 : Created session
+20200612-05:02:27.713755000 : Received logon request
+20200612-05:02:27.714031000 : Responding to logon request
+20200612-05:03:50.905293000 : Created session
+20200612-05:03:53.348340000 : Received logon request
+20200612-05:03:53.348539000 : Responding to logon request
+20200612-05:03:53.348551000 : MsgSeqNum too high, expecting 300 but received 311
+20200612-05:03:53.348979000 : Sent ResendRequest FROM: 300 TO: 0
+20200612-05:04:19.652249000 : Created session
+20200612-05:04:22.420445000 : Received logon request
+20200612-05:04:22.420646000 : Responding to logon request
+20200612-05:04:22.420658000 : MsgSeqNum too high, expecting 300 but received 315
+20200612-05:04:22.420777000 : Sent ResendRequest FROM: 300 TO: 0
+20200612-05:04:22.425149000 : Received SequenceReset FROM: 303 TO: 304
+20200612-05:04:22.428915000 : Received SequenceReset FROM: 308 TO: 309
+20200612-05:04:22.430849000 : Received SequenceReset FROM: 311 TO: 312
+20200612-05:04:22.432729000 : ResendRequest for messages FROM: 300 TO: 314 has been satisfied.
+20200612-05:04:22.433607000 : Processing QUEUED message: 315
+20200612-05:05:34.987585000 : Created session
+20200612-05:05:36.189581000 : Received logon request
+20200612-05:05:36.189764000 : Responding to logon request
+20200612-05:07:02.640140000 : Created session
+20200612-05:07:03.839830000 : Received logon request
+20200612-05:07:03.840000000 : Responding to logon request
+20200612-05:07:27.087871000 : Created session
+20200612-05:07:28.420199000 : Received logon request
+20200612-05:07:28.420427000 : Responding to logon request
+20200612-05:07:47.879979000 : Socket Error: Connection reset by peer.
+20200612-05:07:47.880071000 : Disconnecting
+20200612-05:07:55.122520000 : Created session
+20200612-05:07:56.386265000 : Received logon request
+20200612-05:07:56.386430000 : Responding to logon request
+20200612-05:08:01.544209000 : Socket Error: Connection reset by peer.
+20200612-05:08:01.544301000 : Disconnecting
+20200612-05:13:41.621323000 : Created session
+20200612-05:13:43.422192000 : Received logon request
+20200612-05:13:43.422449000 : Responding to logon request
+20200612-05:14:22.330015000 : Created session
+20200612-05:14:25.314749000 : Received logon request
+20200612-05:14:25.314961000 : Responding to logon request
+20200612-05:14:25.314977000 : MsgSeqNum too high, expecting 340 but received 346
+20200612-05:14:25.315117000 : Sent ResendRequest FROM: 340 TO: 0
+20200612-05:14:25.321821000 : Received SequenceReset FROM: 343 TO: 344
+20200612-05:14:25.323351000 : ResendRequest for messages FROM: 340 TO: 345 has been satisfied.
+20200612-05:14:25.324727000 : Processing QUEUED message: 346
+20200612-05:21:13.369436000 : Created session
+20200612-05:21:15.108962000 : Received logon request
+20200612-05:21:15.109144000 : Responding to logon request
+20200612-05:22:21.028107000 : Created session
+20200612-05:22:22.364237000 : Received logon request
+20200612-05:22:22.364369000 : Responding to logon request
+20200612-05:22:22.364378000 : MsgSeqNum too high, expecting 357 but received 358
+20200612-05:22:22.364454000 : Sent ResendRequest FROM: 357 TO: 0
+20200612-05:22:22.365201000 : ResendRequest for messages FROM: 357 TO: 357 has been satisfied.
+20200612-05:23:11.136228000 : Created session
+20200612-05:23:12.357097000 : Received logon request
+20200612-05:23:12.357283000 : Responding to logon request
+20200612-05:23:12.357299000 : MsgSeqNum too high, expecting 357 but received 360
+20200612-05:23:12.357451000 : Sent ResendRequest FROM: 357 TO: 0
+20200612-05:23:12.359609000 : Received SequenceReset FROM: 358 TO: 359
+20200612-05:23:12.359673000 : ResendRequest for messages FROM: 357 TO: 359 has been satisfied.
+20200612-05:23:12.360535000 : Processing QUEUED message: 360
+20200612-05:27:21.181415000 : Created session
+20200612-05:27:24.060314000 : Received logon request
+20200612-05:27:24.060528000 : Responding to logon request
+20200612-05:27:24.060539000 : MsgSeqNum too high, expecting 369 but received 400
+20200612-05:27:24.060657000 : Sent ResendRequest FROM: 369 TO: 0
+20200612-05:27:24.062638000 : Received SequenceReset FROM: 370 TO: 371
+20200612-05:27:24.072772000 : Received SequenceReset FROM: 374 TO: 375
+20200612-05:27:24.076101000 : Received SequenceReset FROM: 378 TO: 379
+20200612-05:27:24.078559000 : Received SequenceReset FROM: 381 TO: 382
+20200612-05:27:24.084458000 : Received SequenceReset FROM: 386 TO: 387
+20200612-05:27:24.086725000 : Received SequenceReset FROM: 389 TO: 390
+20200612-05:27:24.091262000 : Received SequenceReset FROM: 393 TO: 394
+20200612-05:27:24.097759000 : Received SequenceReset FROM: 398 TO: 399
+20200612-05:27:24.097840000 : ResendRequest for messages FROM: 369 TO: 399 has been satisfied.
+20200612-05:27:24.099862000 : Processing QUEUED message: 400
+20200612-05:27:30.000347000 : Socket Error: Connection reset by peer.
+20200612-05:27:30.000619000 : Disconnecting
+20200612-05:27:58.270417000 : Created session
+20200612-05:27:59.567052000 : Received logon request
+20200612-05:27:59.567240000 : Responding to logon request
+20200612-05:28:19.543969000 : Socket Error: Connection reset by peer.
+20200612-05:28:19.544069000 : Disconnecting
+20200612-05:29:11.248587000 : Created session
+20200612-05:29:12.452190000 : Received logon request
+20200612-05:29:12.452374000 : Responding to logon request
+20200612-05:29:15.624256000 : Socket Error: Connection reset by peer.
+20200612-05:29:15.624354000 : Disconnecting
+20200612-05:35:48.849787000 : Created session
+20200612-05:35:52.387354000 : Received logon request
+20200612-05:35:52.387545000 : Responding to logon request
+20200612-05:35:58.193268000 : Socket Error: Connection reset by peer.
+20200612-05:35:58.193607000 : Disconnecting
+20200612-05:36:24.602343000 : Created session
+20200612-05:36:27.501739000 : Received logon request
+20200612-05:36:27.501922000 : Responding to logon request
+20200612-05:36:45.953326000 : Socket Error: Connection reset by peer.
+20200612-05:36:45.953434000 : Disconnecting
+20200612-05:37:36.471972000 : Created session
+20200612-05:37:38.954135000 : Received logon request
+20200612-05:37:38.954320000 : Responding to logon request
+20200612-05:38:27.145157000 : Created session
+20200612-05:38:29.615841000 : Received logon request
+20200612-05:38:29.616033000 : Responding to logon request
+20200612-05:38:29.616047000 : MsgSeqNum too high, expecting 441 but received 442
+20200612-05:38:29.616164000 : Sent ResendRequest FROM: 441 TO: 0
+20200612-05:38:29.617079000 : ResendRequest for messages FROM: 441 TO: 441 has been satisfied.
+20200612-05:38:29.617733000 : Processing QUEUED message: 442
+20200612-05:38:52.626586000 : Socket Error: Connection reset by peer.
+20200612-05:38:52.626887000 : Disconnecting
+20200612-05:39:49.623433000 : Created session
+20200612-05:39:52.587141000 : Received logon request
+20200612-05:39:52.587331000 : Responding to logon request
+20200612-05:39:55.218568000 : Socket Error: Connection reset by peer.
+20200612-05:39:55.218888000 : Disconnecting
+20200612-05:42:12.643021000 : Created session
+20200612-05:42:15.426433000 : Received logon request
+20200612-05:42:15.426674000 : Responding to logon request
+20200612-05:42:50.311147000 : Created session
+20200612-05:42:53.447568000 : Received logon request
+20200612-05:42:53.447738000 : Responding to logon request
+20200612-05:42:53.447750000 : MsgSeqNum too high, expecting 454 but received 459
+20200612-05:42:53.447869000 : Sent ResendRequest FROM: 454 TO: 0
+20200612-05:42:53.451225000 : Received SequenceReset FROM: 457 TO: 458
+20200612-05:42:53.451291000 : ResendRequest for messages FROM: 454 TO: 458 has been satisfied.
+20200612-05:42:53.451777000 : Processing QUEUED message: 459
+20200612-05:42:54.818857000 : Socket Error: Connection reset by peer.
+20200612-05:42:54.819085000 : Disconnecting
+20200612-05:43:45.627595000 : Created session
+20200612-05:43:48.327185000 : Received logon request
+20200612-05:43:48.327350000 : Responding to logon request
+20200612-05:44:03.005754000 : Socket Error: Connection reset by peer.
+20200612-05:44:03.005974000 : Disconnecting
+20200612-05:45:15.796566000 : Created session
+20200612-05:45:21.588461000 : Received logon request
+20200612-05:45:21.588629000 : Responding to logon request
+20200612-05:45:26.739099000 : Socket Error: Connection reset by peer.
+20200612-05:45:26.739350000 : Disconnecting
+20200612-05:47:05.803753000 : Created session
+20200612-05:47:10.867003000 : Received logon request
+20200612-05:47:10.867202000 : Responding to logon request
+20200612-05:47:18.184608000 : Socket Error: Connection reset by peer.
+20200612-05:47:18.184839000 : Disconnecting
+20200612-05:47:36.412231000 : Created session
+20200612-05:47:39.870383000 : Received logon request
+20200612-05:47:39.870565000 : Responding to logon request
+20200612-05:47:56.722427000 : Socket Error: Connection reset by peer.
+20200612-05:47:56.722670000 : Disconnecting
+20200612-05:48:38.777117000 : Created session
+20200612-05:48:49.240180000 : Received logon request
+20200612-05:48:49.240358000 : Responding to logon request
+20200612-05:48:51.419099000 : Socket Error: Connection reset by peer.
+20200612-05:48:51.419220000 : Disconnecting
+20200612-05:52:04.645068000 : Created session
+20200612-05:52:10.000688000 : Received logon request
+20200612-05:52:10.000866000 : Responding to logon request
+20200612-05:53:20.859837000 : Socket Error: Connection reset by peer.
+20200612-05:53:20.860121000 : Disconnecting
+20200612-05:53:52.448897000 : Created session
+20200612-05:53:54.613274000 : Received logon request
+20200612-05:53:54.613449000 : Responding to logon request
+20200612-05:54:17.715486000 : Socket Error: Connection reset by peer.
+20200612-05:54:17.715725000 : Disconnecting
+20200612-05:56:27.578352000 : Created session
+20200612-05:56:29.572436000 : Received logon request
+20200612-05:56:29.572596000 : Responding to logon request
+20200612-05:56:47.267602000 : Socket Error: Connection reset by peer.
+20200612-05:56:47.267785000 : Disconnecting
+20200612-05:56:50.954735000 : Created session
+20200612-05:56:55.754244000 : Received logon request
+20200612-05:56:55.754424000 : Responding to logon request
+20200612-05:58:05.419859000 : Created session
+20200612-05:58:10.416367000 : Received logon request
+20200612-05:58:10.416962000 : Responding to logon request
+20200612-05:58:15.264264000 : Socket Error: Connection reset by peer.
+20200612-05:58:15.264509000 : Disconnecting
+20200612-05:58:28.100912000 : Created session
+20200612-05:58:30.398635000 : Received logon request
+20200612-05:58:30.398820000 : Responding to logon request
+20200612-05:58:30.398837000 : MsgSeqNum too high, expecting 506 but received 507
+20200612-05:58:30.398959000 : Sent ResendRequest FROM: 506 TO: 0
+20200612-05:58:30.399489000 : ResendRequest for messages FROM: 506 TO: 506 has been satisfied.
+20200612-05:58:30.400801000 : Processing QUEUED message: 507
+20200612-05:58:55.066923000 : Socket Error: Connection reset by peer.
+20200612-05:58:55.067066000 : Disconnecting
+20200612-06:01:27.684607000 : Created session
+20200612-06:01:29.303121000 : Received logon request
+20200612-06:01:29.303300000 : Responding to logon request
+20200612-06:02:22.886494000 : Created session
+20200612-06:02:26.910387000 : Received logon request
+20200612-06:02:26.910713000 : Responding to logon request
+20200612-06:05:15.882933000 : Created session
+20200612-06:05:20.779394000 : Received logon request
+20200612-06:05:20.779565000 : Responding to logon request
+20200612-06:05:20.779586000 : MsgSeqNum too high, expecting 515 but received 538
+20200612-06:05:20.779715000 : Sent ResendRequest FROM: 515 TO: 0
+20200612-06:05:20.784426000 : Received SequenceReset FROM: 518 TO: 519
+20200612-06:05:20.787887000 : Received SequenceReset FROM: 522 TO: 523
+20200612-06:05:20.792794000 : Received SequenceReset FROM: 526 TO: 527
+20200612-06:05:20.798859000 : Received SequenceReset FROM: 530 TO: 531
+20200612-06:05:20.803483000 : Received SequenceReset FROM: 534 TO: 535
+20200612-06:05:20.806150000 : ResendRequest for messages FROM: 515 TO: 537 has been satisfied.
+20200612-06:05:20.807542000 : Processing QUEUED message: 538
+20200612-06:05:28.870209000 : Created session
+20200612-06:05:31.369311000 : Received logon request
+20200612-06:05:31.369499000 : Responding to logon request
+20200612-06:08:33.538998000 : Created session
+20200612-06:08:44.912492000 : Received logon request
+20200612-06:08:44.912649000 : Responding to logon request
+20200612-06:09:16.114802000 : Socket Error: Connection reset by peer.
+20200612-06:09:16.115035000 : Disconnecting
+20200612-06:10:14.259770000 : Created session
+20200612-06:10:18.537567000 : Received logon request
+20200612-06:10:18.537679000 : Responding to logon request
+20200612-06:10:45.735305000 : Socket Error: Connection reset by peer.
+20200612-06:10:45.735636000 : Disconnecting
+20200612-06:12:23.620810000 : Created session
+20200612-06:12:29.240391000 : Received logon request
+20200612-06:12:29.240532000 : Responding to logon request
+20200612-06:14:05.870856000 : Created session
+20200612-06:14:12.793683000 : Received logon request
+20200612-06:14:12.793984000 : Responding to logon request
+20200612-06:14:46.345930000 : Socket Error: Connection reset by peer.
+20200612-06:14:46.346043000 : Disconnecting
+20200612-06:15:04.627442000 : Created session
+20200612-06:15:06.387395000 : Received logon request
+20200612-06:15:06.387585000 : Responding to logon request
+20200612-06:15:41.529610000 : Socket Error: Connection reset by peer.
+20200612-06:15:41.529691000 : Disconnecting
+20200612-06:15:57.645064000 : Created session
+20200612-06:15:58.999660000 : Received logon request
+20200612-06:15:58.999836000 : Responding to logon request
+20200612-06:16:13.934998000 : Socket Error: Connection reset by peer.
+20200612-06:16:13.937883000 : Disconnecting
+20200612-06:17:03.172135000 : Created session
+20200612-06:17:04.832474000 : Received logon request
+20200612-06:17:04.832642000 : Responding to logon request
+20200612-06:17:11.421206000 : Socket Error: Connection reset by peer.
+20200612-06:17:11.421338000 : Disconnecting
+20200612-06:18:17.593521000 : Created session
+20200612-06:18:19.200475000 : Received logon request
+20200612-06:18:19.200644000 : Responding to logon request
+20200612-06:18:46.892477000 : Socket Error: Connection reset by peer.
+20200612-06:18:46.892578000 : Disconnecting
+20200612-06:19:32.376015000 : Created session
+20200612-06:19:33.663848000 : Received logon request
+20200612-06:19:33.664001000 : Responding to logon request
+20200612-06:20:11.946129000 : Socket Error: Connection reset by peer.
+20200612-06:20:11.946422000 : Disconnecting
+20200612-06:20:34.422703000 : Created session
+20200612-06:20:39.642458000 : Received logon request
+20200612-06:20:39.642616000 : Responding to logon request
+20200612-06:23:36.760812000 : Created session
+20200612-06:23:58.040515000 : Created session
+20200612-06:25:06.915469000 : Created session
+20200612-06:25:08.527826000 : Received logon request
+20200612-06:25:08.528011000 : Responding to logon request
+20200612-06:25:08.528022000 : MsgSeqNum too high, expecting 585 but received 587
+20200612-06:25:08.528106000 : Sent ResendRequest FROM: 585 TO: 0
+20200612-06:25:08.528723000 : Received SequenceReset FROM: 585 TO: 586
+20200612-06:25:08.528776000 : ResendRequest for messages FROM: 585 TO: 586 has been satisfied.
+20200612-06:25:08.529571000 : Processing QUEUED message: 587
+20200612-06:25:47.417485000 : Created session
+20200612-06:30:24.548887000 : Created session
+20200612-06:30:26.733126000 : Received logon request
+20200612-06:30:26.733300000 : Responding to logon request
+20200612-06:30:26.733314000 : MsgSeqNum too high, expecting 589 but received 591
+20200612-06:30:26.733417000 : Sent ResendRequest FROM: 589 TO: 0
+20200612-06:30:26.734085000 : Received SequenceReset FROM: 589 TO: 590
+20200612-06:30:26.734148000 : ResendRequest for messages FROM: 589 TO: 590 has been satisfied.
+20200612-06:30:26.734768000 : Processing QUEUED message: 591
+20200612-06:31:41.639430000 : Created session
+20200612-06:32:35.542918000 : Created session
+20200612-06:32:38.888357000 : Received logon request
+20200612-06:32:38.888547000 : Responding to logon request
+20200612-06:32:38.888565000 : MsgSeqNum too high, expecting 593 but received 610
+20200612-06:32:38.888682000 : Sent ResendRequest FROM: 593 TO: 0
+20200612-06:32:38.891414000 : Received SequenceReset FROM: 596 TO: 597
+20200612-06:32:38.894055000 : Received SequenceReset FROM: 599 TO: 600
+20200612-06:32:38.895577000 : Received SequenceReset FROM: 603 TO: 604
+20200612-06:32:38.898804000 : Received SequenceReset FROM: 607 TO: 608
+20200612-06:32:38.900273000 : ResendRequest for messages FROM: 593 TO: 609 has been satisfied.
+20200612-06:32:38.901246000 : Processing QUEUED message: 610
+20200612-06:32:51.767998000 : Created session
+20200612-06:32:53.359630000 : Received logon request
+20200612-06:32:53.359795000 : Responding to logon request
+20200612-06:32:53.359827000 : MsgSeqNum too high, expecting 612 but received 613
+20200612-06:32:53.359958000 : Sent ResendRequest FROM: 612 TO: 0
+20200612-06:32:53.360861000 : ResendRequest for messages FROM: 612 TO: 612 has been satisfied.
+20200612-06:32:53.361597000 : Processing QUEUED message: 613
+20200612-06:33:22.755931000 : Created session
+20200612-06:33:24.017549000 : Received logon request
+20200612-06:33:24.017734000 : Responding to logon request
+20200612-06:33:24.017747000 : MsgSeqNum too high, expecting 615 but received 617
+20200612-06:33:24.017864000 : Sent ResendRequest FROM: 615 TO: 0
+20200612-06:33:24.019013000 : ResendRequest for messages FROM: 615 TO: 616 has been satisfied.
+20200612-06:33:24.019599000 : Processing QUEUED message: 617
+20200612-06:34:37.362880000 : Created session
+20200612-06:37:20.107585000 : Created session
+20200612-06:37:21.814965000 : Received logon request
+20200612-06:37:21.815147000 : Responding to logon request
+20200612-06:37:21.815160000 : MsgSeqNum too high, expecting 619 but received 628
+20200612-06:37:21.815276000 : Sent ResendRequest FROM: 619 TO: 0
+20200612-06:37:21.818519000 : Received SequenceReset FROM: 622 TO: 623
+20200612-06:37:21.820193000 : Received SequenceReset FROM: 626 TO: 627
+20200612-06:37:21.820259000 : ResendRequest for messages FROM: 619 TO: 627 has been satisfied.
+20200612-06:37:21.820790000 : Processing QUEUED message: 628
+20200612-06:38:39.649226000 : Created session
+20200612-06:38:41.464402000 : Received logon request
+20200612-06:38:41.464565000 : Responding to logon request
+20200612-06:38:41.464579000 : MsgSeqNum too high, expecting 630 but received 631
+20200612-06:38:41.464688000 : Sent ResendRequest FROM: 630 TO: 0
+20200612-06:38:41.470919000 : ResendRequest for messages FROM: 630 TO: 630 has been satisfied.
+20200612-06:38:41.471710000 : Processing QUEUED message: 631
+20200612-06:41:12.238460000 : Created session
+20200612-06:42:05.437946000 : Received logon request
+20200612-06:42:05.438100000 : Responding to logon request
+20200612-06:42:05.438112000 : MsgSeqNum too high, expecting 633 but received 634
+20200612-06:42:05.438218000 : Sent ResendRequest FROM: 633 TO: 0
+20200612-06:42:05.439052000 : ResendRequest for messages FROM: 633 TO: 633 has been satisfied.
+20200612-06:42:05.440674000 : Processing QUEUED message: 634
+20200612-06:42:57.802772000 : Socket Error: Connection reset by peer.
+20200612-06:42:57.802875000 : Disconnecting
+20200612-06:44:07.801215000 : Created session
+20200612-06:44:09.111768000 : Received logon request
+20200612-06:44:09.111938000 : Responding to logon request
+20200612-06:44:55.787616000 : Socket Error: Connection reset by peer.
+20200612-06:44:55.787698000 : Disconnecting
+20200612-06:46:20.046046000 : Created session
+20200612-06:46:21.243123000 : Received logon request
+20200612-06:46:21.243317000 : Responding to logon request
+20200612-06:46:48.182312000 : Socket Error: Connection reset by peer.
+20200612-06:46:48.182617000 : Disconnecting
+20200612-06:49:29.011698000 : Created session
+20200612-06:49:30.706445000 : Received logon request
+20200612-06:49:30.706895000 : Responding to logon request
+20200612-06:50:19.046950000 : Socket Error: Connection reset by peer.
+20200612-06:50:19.047221000 : Disconnecting
+20200612-06:51:48.030296000 : Created session
+20200612-06:51:51.019333000 : Received logon request
+20200612-06:51:51.019569000 : Responding to logon request
+20200612-06:52:14.000023000 : Socket Error: Connection reset by peer.
+20200612-06:52:14.000216000 : Disconnecting
+20200612-06:52:21.127120000 : Created session
+20200612-06:52:24.060788000 : Received logon request
+20200612-06:52:24.060943000 : Responding to logon request
+20200612-06:53:12.228937000 : Socket Error: Connection reset by peer.
+20200612-06:53:12.229206000 : Disconnecting
+20200612-06:53:41.233212000 : Created session
+20200612-06:53:44.963335000 : Received logon request
+20200612-06:53:44.963445000 : Responding to logon request
+20200612-06:54:10.316872000 : Socket Error: Connection reset by peer.
+20200612-06:54:10.316971000 : Disconnecting
+20200612-06:54:35.369036000 : Created session
+20200612-06:54:38.064729000 : Received logon request
+20200612-06:54:38.064912000 : Responding to logon request
+20200612-06:54:58.220074000 : Socket Error: Connection reset by peer.
+20200612-06:54:58.220181000 : Disconnecting
+20200612-06:56:28.673455000 : Created session
+20200612-06:56:30.990824000 : Received logon request
+20200612-06:56:30.990998000 : Responding to logon request
+20200612-06:56:59.157070000 : Socket Error: Connection reset by peer.
+20200612-06:56:59.157417000 : Disconnecting
+20200612-06:57:26.869032000 : Created session
+20200612-06:57:28.463932000 : Received logon request
+20200612-06:57:28.464110000 : Responding to logon request
+20200612-06:58:36.427548000 : Created session
+20200612-06:58:41.070665000 : Received logon request
+20200612-06:58:41.070831000 : Responding to logon request
+20200612-07:03:14.680669000 : Socket Error: Connection reset by peer.
+20200612-07:03:14.680939000 : Disconnecting
+20200612-07:03:19.292097000 : Created session
+20200612-07:03:23.420420000 : Received logon request
+20200612-07:03:23.420588000 : Responding to logon request
+20200612-07:03:46.675791000 : Socket Error: Connection reset by peer.
+20200612-07:03:46.676013000 : Disconnecting
+20200612-07:04:03.285158000 : Created session
+20200612-07:04:05.632884000 : Received logon request
+20200612-07:04:05.633040000 : Responding to logon request
+20200612-07:04:20.454425000 : Socket Error: Connection reset by peer.
+20200612-07:04:20.454755000 : Disconnecting
+20200612-07:04:43.340513000 : Created session
+20200612-07:04:46.748412000 : Received logon request
+20200612-07:04:46.748580000 : Responding to logon request
+20200612-07:09:29.851244000 : Created session
+20200612-07:09:31.621245000 : Received logon request
+20200612-07:09:31.621416000 : Responding to logon request
+20200612-07:10:15.184350000 : Created session
+20200612-07:10:16.375386000 : Received logon request
+20200612-07:10:16.375555000 : Responding to logon request
+20200612-07:10:16.375571000 : MsgSeqNum too high, expecting 750 but received 752
+20200612-07:10:16.375685000 : Sent ResendRequest FROM: 750 TO: 0
+20200612-07:10:16.377245000 : ResendRequest for messages FROM: 750 TO: 751 has been satisfied.
+20200612-07:10:16.377287000 : Received SequenceReset FROM: 751 TO: 753
+20200612-07:11:42.167449000 : Created session
+20200612-07:11:43.461647000 : Received logon request
+20200612-07:11:43.461815000 : Responding to logon request
+20200612-07:12:25.270892000 : Socket Error: Connection reset by peer.
+20200612-07:12:25.271159000 : Disconnecting
+20200612-07:26:40.256120000 : Received logon request
+20200612-07:26:40.256318000 : Responding to logon request
+20200612-07:29:02.497296000 : Created session
+20200612-07:29:03.888853000 : Received logon request
+20200612-07:29:03.889048000 : Responding to logon request
+20200612-07:29:03.889061000 : MsgSeqNum too high, expecting 773 but received 777
+20200612-07:29:03.889175000 : Sent ResendRequest FROM: 773 TO: 0
+20200612-07:29:03.891655000 : Received SequenceReset FROM: 774 TO: 775
+20200612-07:29:03.892757000 : ResendRequest for messages FROM: 773 TO: 776 has been satisfied.
+20200612-07:29:03.893822000 : Processing QUEUED message: 777
+20200612-07:29:34.910365000 : Socket Error: Connection reset by peer.
+20200612-07:29:34.910493000 : Disconnecting
+20200612-07:45:19.941097000 : Created session
+20200612-07:45:21.554287000 : Received logon request
+20200612-07:45:21.554466000 : Responding to logon request
+20200612-07:45:44.117844000 : Socket Error: Connection reset by peer.
+20200612-07:45:44.118144000 : Disconnecting
+20200612-07:46:12.780130000 : Created session
+20200612-07:46:14.202763000 : Received logon request
+20200612-07:46:14.202936000 : Responding to logon request
+20200612-07:46:34.761231000 : Socket Error: Connection reset by peer.
+20200612-07:46:34.761445000 : Disconnecting
+20200612-07:49:19.598157000 : Created session
+20200612-07:49:23.056460000 : Received logon request
+20200612-07:49:23.056630000 : Responding to logon request
+20200612-07:50:27.644881000 : Socket Error: Connection reset by peer.
+20200612-07:50:27.644977000 : Disconnecting
+20200612-07:57:01.577677000 : Created session
+20200612-07:57:56.458930000 : Created session
+20200612-08:01:20.623122000 : Created session
+20200612-08:01:28.936914000 : Received logon request
+20200612-08:01:28.937070000 : Responding to logon request
+20200612-08:01:54.231122000 : Created session
+20200612-08:01:58.418088000 : Received logon request
+20200612-08:01:58.418249000 : Responding to logon request
+20200612-08:01:58.418262000 : MsgSeqNum too high, expecting 808 but received 810
+20200612-08:01:58.418367000 : Sent ResendRequest FROM: 808 TO: 0
+20200612-08:01:58.420257000 : ResendRequest for messages FROM: 808 TO: 809 has been satisfied.
+20200612-08:01:58.421058000 : Processing QUEUED message: 810
+20200612-08:04:30.725373000 : Socket Error: Connection reset by peer.
+20200612-08:04:30.725645000 : Disconnecting
+20200612-08:05:44.512821000 : Created session
+20200612-08:05:49.226121000 : Received logon request
+20200612-08:05:49.226309000 : Responding to logon request
+20200612-08:06:35.054285000 : Socket Error: Connection reset by peer.
+20200612-08:06:35.054393000 : Disconnecting
+20200612-08:08:45.534560000 : Created session
+20200612-08:08:47.382457000 : Received logon request
+20200612-08:08:47.382644000 : Responding to logon request
+20200612-08:09:13.224468000 : Socket Error: Connection reset by peer.
+20200612-08:09:13.224790000 : Disconnecting
+20200612-08:09:32.602450000 : Created session
+20200612-08:09:33.380889000 : Received logon request
+20200612-08:09:33.381058000 : Responding to logon request
+20200612-08:10:19.735185000 : Socket Error: Connection reset by peer.
+20200612-08:10:19.735406000 : Disconnecting
+20200612-08:11:03.355995000 : Created session
+20200612-08:11:04.646163000 : Received logon request
+20200612-08:11:04.646335000 : Responding to logon request
+20200612-08:11:38.747271000 : Socket Error: Connection reset by peer.
+20200612-08:11:38.747551000 : Disconnecting
+20200612-15:33:19.910015000 : Created session
+20200612-15:33:28.857270000 : Received logon request
+20200612-15:33:28.857513000 : Responding to logon request
+20200612-15:33:28.857688000 : Socket Error: Connection reset by peer.
+20200612-15:33:28.857723000 : Disconnecting
+20200612-15:33:47.429575000 : Created session
+20200612-15:33:49.297113000 : Received logon request
+20200612-15:33:49.297279000 : Responding to logon request
+20200612-15:33:49.297292000 : MsgSeqNum too high, expecting 951 but received 952
+20200612-15:33:49.297400000 : Sent ResendRequest FROM: 951 TO: 0
+20200612-15:33:49.297581000 : Received ResendRequest FROM: 751 TO: 0
+20200612-15:33:49.297685000 : Sent SequenceReset TO: 754
+20200612-15:33:49.297740000 : ResendRequest for messages FROM: 951 TO: 951 has been satisfied.
+20200612-15:33:49.298399000 : Processing QUEUED message: 952
+20200612-15:33:49.346391000 : MsgSeqNum too high, expecting 953 but received 954
+20200612-15:33:49.346572000 : Sent ResendRequest FROM: 953 TO: 0
+20200612-15:33:49.347091000 : ResendRequest for messages FROM: 953 TO: 953 has been satisfied.
+20200612-15:33:49.347150000 : Received SequenceReset FROM: 953 TO: 954
+20200612-15:33:49.347179000 : Processing QUEUED message: 954
+20200612-15:33:54.395785000 : Socket Error: Connection reset by peer.
+20200612-15:33:54.396039000 : Disconnecting
+20200612-15:34:26.660235000 : Created session
+20200612-15:34:29.646258000 : Received logon request
+20200612-15:34:29.646399000 : Responding to logon request
+20200612-15:34:37.485004000 : Socket Error: Connection reset by peer.
+20200612-15:34:37.485102000 : Disconnecting
+20200612-15:36:20.483951000 : Created session
+20200612-15:36:21.747769000 : Received logon request
+20200612-15:36:21.747944000 : Responding to logon request
+20200612-15:36:29.359717000 : Socket Error: Connection reset by peer.
+20200612-15:36:29.359818000 : Disconnecting
+20200612-15:53:01.968171000 : Created session
+20200612-15:53:04.131703000 : Received logon request
+20200612-15:53:04.132531000 : Responding to logon request
+20200612-15:53:04.132594000 : MsgSeqNum too high, expecting 980 but received 981
+20200612-15:53:04.133200000 : Sent ResendRequest FROM: 980 TO: 0
+20200612-15:53:04.134045000 : MsgSeqNum too high, expecting 980 but received 982
+20200612-15:53:04.134151000 : Already sent ResendRequest FROM: 980 TO: 980.  Not sending another.
+20200612-15:53:04.134829000 : ResendRequest for messages FROM: 980 TO: 980 has been satisfied.
+20200612-15:53:04.137758000 : Processing QUEUED message: 981
+20200612-15:53:04.137935000 : Processing QUEUED message: 982
+20200612-15:53:10.102488000 : Socket Error: Connection reset by peer.
+20200612-15:53:10.102773000 : Disconnecting
+20200612-18:04:41.113671000 : Created session
+20200612-18:04:58.522316000 : Received logon request
+20200612-18:04:58.522576000 : Responding to logon request
+20200612-18:04:58.522596000 : MsgSeqNum too high, expecting 989 but received 990
+20200612-18:04:58.522787000 : Sent ResendRequest FROM: 989 TO: 0
+20200612-18:04:58.523068000 : ResendRequest for messages FROM: 989 TO: 989 has been satisfied.
+20200612-18:04:58.524432000 : Processing QUEUED message: 990
+20200612-18:05:05.234424000 : Socket Error: Connection reset by peer.
+20200612-18:05:05.234637000 : Disconnecting
+20200612-18:05:34.970534000 : Created session
+20200612-18:05:39.681058000 : Received logon request
+20200612-18:05:39.681223000 : Responding to logon request
+20200612-18:05:39.681239000 : MsgSeqNum too high, expecting 998 but received 999
+20200612-18:05:39.681411000 : Sent ResendRequest FROM: 998 TO: 0
+20200612-18:05:39.681712000 : ResendRequest for messages FROM: 998 TO: 998 has been satisfied.
+20200612-18:05:39.682514000 : Processing QUEUED message: 999
+20200612-18:06:13.679810000 : Socket Error: Connection reset by peer.
+20200612-18:06:13.679904000 : Disconnecting
+20200612-18:07:15.433334000 : Created session
+20200612-18:07:30.751830000 : Received logon request
+20200612-18:07:30.752004000 : Responding to logon request
+20200612-18:07:30.752020000 : MsgSeqNum too high, expecting 1035 but received 1036
+20200612-18:07:30.752192000 : Sent ResendRequest FROM: 1035 TO: 0
+20200612-18:07:30.752500000 : ResendRequest for messages FROM: 1035 TO: 1035 has been satisfied.
+20200612-18:07:30.753266000 : Processing QUEUED message: 1036
+20200612-18:07:36.980145000 : Socket Error: Connection reset by peer.
+20200612-18:07:36.980281000 : Disconnecting
+20200612-18:08:09.098456000 : Received logon request
+20200612-18:08:09.098612000 : Responding to logon request
+20200612-18:08:09.098624000 : MsgSeqNum too high, expecting 1044 but received 1045
+20200612-18:08:09.098740000 : Sent ResendRequest FROM: 1044 TO: 0
+20200612-18:08:09.099010000 : ResendRequest for messages FROM: 1044 TO: 1044 has been satisfied.
+20200612-18:08:09.100208000 : Processing QUEUED message: 1045
+20200612-18:13:39.728880000 : Created session
+20200612-18:14:15.408623000 : Received logon request
+20200612-18:14:15.408787000 : Responding to logon request
+20200612-18:14:15.408803000 : MsgSeqNum too high, expecting 1056 but received 1057
+20200612-18:14:15.408975000 : Sent ResendRequest FROM: 1056 TO: 0
+20200612-18:14:15.409273000 : ResendRequest for messages FROM: 1056 TO: 1056 has been satisfied.
+20200612-18:14:15.410057000 : Processing QUEUED message: 1057
+20200612-18:14:22.828336000 : Socket Error: Connection reset by peer.
+20200612-18:14:22.828444000 : Disconnecting
+20200612-18:35:43.525580000 : Created session
+20200612-18:38:52.123978000 : Created session
+20200612-18:39:02.729639000 : Received logon request
+20200612-18:39:02.729881000 : Responding to logon request
+20200612-18:39:02.848047000 : Socket Error: Connection reset by peer.
+20200612-18:39:02.848156000 : Disconnecting
+20200612-18:40:06.246585000 : Received logon request
+20200612-18:40:06.246732000 : Responding to logon request
+20200612-18:40:06.272898000 : Socket Error: Connection reset by peer.
+20200612-18:40:06.272997000 : Disconnecting
+20200612-18:40:32.088332000 : Created session
+20200612-18:41:35.098139000 : Created session
+20200612-18:43:24.339182000 : Created session
+20200612-18:45:22.016185000 : Received logon request
+20200612-18:45:22.016355000 : Responding to logon request
+20200612-18:45:40.055823000 : Socket Error: Connection reset by peer.
+20200612-18:45:40.055984000 : Disconnecting
+20200612-18:52:30.672300000 : Created session
+20200612-18:52:50.668538000 : Received logon request
+20200612-18:52:50.668781000 : Responding to logon request
+20200612-18:52:50.744327000 : Socket Error: Connection reset by peer.
+20200612-18:52:50.744425000 : Disconnecting
+20200612-18:53:29.200538000 : Created session
+20200612-18:53:32.530147000 : Received logon request
+20200612-18:53:32.530388000 : Responding to logon request
+20200612-18:53:32.612790000 : Socket Error: Connection reset by peer.
+20200612-18:53:32.612860000 : Disconnecting
+20200612-18:53:55.144218000 : Created session
+20200612-18:54:00.300282000 : Received logon request
+20200612-18:54:00.300529000 : Responding to logon request
+20200612-18:54:00.380019000 : Socket Error: Connection reset by peer.
+20200612-18:54:00.380135000 : Disconnecting
+20200612-18:54:19.497938000 : Received logon request
+20200612-18:54:19.498105000 : Responding to logon request
+20200612-18:54:20.496704000 : Received logout request
+20200612-18:54:20.497010000 : Sending logout response
+20200612-18:54:20.497051000 : Disconnecting
+20200612-18:55:36.337083000 : Created session
+20200612-18:55:41.505603000 : Received logon request
+20200612-18:55:41.505849000 : Responding to logon request
+20200612-18:55:42.506509000 : Received logout request
+20200612-18:55:42.506727000 : Sending logout response
+20200612-18:55:42.506750000 : Disconnecting
+20200612-18:56:11.280257000 : Received logon request
+20200612-18:56:11.280416000 : Responding to logon request
+20200612-18:56:11.389369000 : Socket Error: Connection reset by peer.
+20200612-18:56:11.389451000 : Disconnecting
+20200612-18:56:35.695855000 : Received logon request
+20200612-18:56:35.696037000 : Responding to logon request
+20200612-18:56:35.821188000 : Socket Error: Connection reset by peer.
+20200612-18:56:35.821299000 : Disconnecting
+20200612-18:57:25.332338000 : Created session
+20200612-18:57:27.150528000 : Received logon request
+20200612-18:57:27.150696000 : Responding to logon request
+20200612-18:57:27.151095000 : Received ResendRequest FROM: 32 TO: 0
+20200612-18:57:27.151295000 : Resending Message: 32
+20200612-18:57:27.151425000 : Sent SequenceReset TO: 34
+20200612-18:58:14.434882000 : Socket Error: Connection reset by peer.
+20200612-18:58:14.435040000 : Disconnecting
+20200612-19:05:21.510515000 : Created session
+20200612-19:05:24.644379000 : Received logon request
+20200612-19:05:24.644618000 : Responding to logon request
+20200612-19:05:47.113301000 : Socket Error: Connection reset by peer.
+20200612-19:05:47.113471000 : Disconnecting
+20200612-19:09:55.433266000 : Created session
+20200612-19:10:11.998984000 : Received logon request
+20200612-19:10:11.999150000 : Responding to logon request
+20200612-19:10:33.715318000 : Socket Error: Connection reset by peer.
+20200612-19:10:33.715476000 : Disconnecting
+20200612-19:11:36.028743000 : Created session
+20200612-19:11:38.194360000 : Received logon request
+20200612-19:11:38.194526000 : Responding to logon request
+20200612-19:12:12.093951000 : Socket Error: Connection reset by peer.
+20200612-19:12:12.094109000 : Disconnecting
+20200612-19:12:56.699422000 : Created session
+20200612-19:13:02.296330000 : Received logon request
+20200612-19:13:02.296496000 : Responding to logon request
+20200612-19:13:02.369476000 : Received logout request
+20200612-19:13:02.369563000 : Sending logout response
+20200612-19:13:02.369572000 : Disconnecting
+20200612-19:14:26.212865000 : Created session
+20200612-19:14:30.134983000 : Received logon request
+20200612-19:14:30.135147000 : Responding to logon request
+20200612-19:14:30.201471000 : Received logout request
+20200612-19:14:30.201556000 : Sending logout response
+20200612-19:14:30.201566000 : Disconnecting
+20200612-19:16:17.535073000 : Created session
+20200612-19:16:22.938798000 : Received logon request
+20200612-19:16:22.938969000 : Responding to logon request
+20200612-19:16:23.044630000 : Socket Error: Connection reset by peer.
+20200612-19:16:23.044732000 : Disconnecting
+20200612-19:16:42.322164000 : Created session
+20200612-19:16:47.057490000 : Received logon request
+20200612-19:16:47.057721000 : Responding to logon request
+20200612-19:16:47.127896000 : Received logout request
+20200612-19:16:47.127987000 : Sending logout response
+20200612-19:16:47.127997000 : Disconnecting
+20200612-19:18:31.982911000 : Received logon request
+20200612-19:18:31.983062000 : Responding to logon request
+20200612-19:18:32.053381000 : Received logout request
+20200612-19:18:32.053486000 : Sending logout response
+20200612-19:18:32.053495000 : Disconnecting
+20200612-19:19:02.198697000 : Received logon request
+20200612-19:19:02.198908000 : Responding to logon request
+20200612-19:19:02.268037000 : Received logout request
+20200612-19:19:02.268133000 : Sending logout response
+20200612-19:19:02.268142000 : Disconnecting
+20200612-19:20:17.134215000 : Created session
+20200612-19:20:20.065456000 : Received logon request
+20200612-19:20:20.065685000 : Responding to logon request
+20200612-19:20:21.065582000 : Received logout request
+20200612-19:20:21.065826000 : Sending logout response
+20200612-19:20:21.065849000 : Disconnecting
+20200612-19:20:59.367385000 : Received logon request
+20200612-19:20:59.367549000 : Responding to logon request
+20200612-19:20:59.445019000 : Socket Error: Connection reset by peer.
+20200612-19:20:59.445118000 : Disconnecting
+20200612-19:21:20.407840000 : Received logon request
+20200612-19:21:20.408102000 : Responding to logon request
+20200612-19:21:20.479091000 : Received logout request
+20200612-19:21:20.479184000 : Sending logout response
+20200612-19:21:20.479195000 : Disconnecting
+20200612-19:21:58.549529000 : Received logon request
+20200612-19:21:58.549685000 : Responding to logon request
+20200612-19:21:58.621082000 : Received logout request
+20200612-19:21:58.621170000 : Sending logout response
+20200612-19:21:58.621180000 : Disconnecting
+20200612-19:26:55.587882000 : Created session
+20200612-19:27:02.457258000 : Received logon request
+20200612-19:27:02.457443000 : Responding to logon request
+20200612-19:27:02.604666000 : Socket Error: Connection reset by peer
+20200612-19:27:02.604728000 : Disconnecting
+20200612-19:28:09.466843000 : Created session
+20200612-19:28:13.871044000 : Received logon request
+20200612-19:28:13.871248000 : Responding to logon request
+20200612-19:28:13.871679000 : Received ResendRequest FROM: 211 TO: 0
+20200612-19:28:13.871932000 : Resending Message: 211
+20200612-19:28:13.872117000 : Resending Message: 212
+20200612-19:28:13.872281000 : Resending Message: 213
+20200612-19:28:13.872428000 : Resending Message: 214
+20200612-19:28:13.872504000 : Sent SequenceReset TO: 216
+20200612-19:28:13.963132000 : Socket Error: Connection reset by peer.
+20200612-19:28:13.963253000 : Disconnecting
+20200612-19:28:58.071817000 : Created session
+20200612-19:29:01.763920000 : Received logon request
+20200612-19:29:01.764156000 : Responding to logon request
+20200612-19:29:01.764501000 : Received ResendRequest FROM: 213 TO: 0
+20200612-19:29:01.764700000 : Resending Message: 213
+20200612-19:29:01.764878000 : Resending Message: 214
+20200612-19:29:01.764999000 : Sent SequenceReset TO: 217
+20200612-19:29:01.835705000 : Received logout request
+20200612-19:29:01.835865000 : Sending logout response
+20200612-19:29:01.835876000 : Disconnecting
+20200612-19:30:13.848243000 : Created session
+20200612-19:30:16.440514000 : Received logon request
+20200612-19:30:16.440683000 : Responding to logon request
+20200612-19:30:16.523603000 : Received logout request
+20200612-19:30:16.523703000 : Sending logout response
+20200612-19:30:16.523713000 : Disconnecting
+20200612-19:31:54.534131000 : Created session
+20200612-19:31:57.632662000 : Received logon request
+20200612-19:31:57.632842000 : Responding to logon request
+20200612-19:31:57.702354000 : Received logout request
+20200612-19:31:57.702439000 : Sending logout response
+20200612-19:31:57.702449000 : Disconnecting
+20200612-19:32:33.756933000 : Created session
+20200612-19:32:36.463427000 : Received logon request
+20200612-19:32:36.463594000 : Responding to logon request
+20200612-19:32:36.533418000 : Received logout request
+20200612-19:32:36.533501000 : Sending logout response
+20200612-19:32:36.533511000 : Disconnecting
+20200612-19:34:22.641901000 : Created session
+20200612-19:34:26.345967000 : Received logon request
+20200612-19:34:26.346212000 : Responding to logon request
+20200612-19:34:26.346230000 : MsgSeqNum too high, expecting 226 but received 232
+20200612-19:34:26.346404000 : Sent ResendRequest FROM: 226 TO: 0
+20200612-19:34:26.346877000 : Received SequenceReset FROM: 226 TO: 227
+20200612-19:34:26.392712000 : ResendRequest for messages FROM: 226 TO: 231 has been satisfied.
+20200612-19:34:26.393091000 : Processing QUEUED message: 232
+20200612-19:34:26.464263000 : Received logout request
+20200612-19:34:26.464508000 : Sending logout response
+20200612-19:34:26.464530000 : Disconnecting
+20200612-19:38:54.313244000 : Created session
+20200612-19:39:09.142184000 : Received logon request
+20200612-19:39:09.142436000 : Responding to logon request
+20200612-19:39:09.218570000 : Socket Error: Connection reset by peer.
+20200612-19:39:09.218688000 : Disconnecting
+20200612-19:39:29.582838000 : Received logon request
+20200612-19:39:29.582993000 : Responding to logon request
+20200612-19:39:29.650641000 : Received logout request
+20200612-19:39:29.650728000 : Sending logout response
+20200612-19:39:29.650738000 : Disconnecting
+20200613-01:34:05.087375000 : Created session
+20200613-01:34:15.068337000 : Received logon request
+20200613-01:34:15.124779000 : Responding to logon request
+20200613-01:34:15.124812000 : MsgSeqNum too high, expecting 245 but received 249
+20200613-01:34:15.125121000 : Sent ResendRequest FROM: 245 TO: 0
+20200613-01:34:15.125609000 : Socket Error: Connection reset by peer.
+20200613-01:34:15.125669000 : Disconnecting
+20200613-01:35:28.864975000 : Received logon request
+20200613-01:35:28.865129000 : Responding to logon request
+20200613-01:35:28.865145000 : MsgSeqNum too high, expecting 245 but received 253
+20200613-01:35:28.865369000 : Sent ResendRequest FROM: 245 TO: 0
+20200613-01:35:28.865654000 : Received ResendRequest FROM: 273 TO: 0
+20200613-01:35:28.865841000 : Sent SequenceReset TO: 277
+20200613-01:35:28.866127000 : Received SequenceReset FROM: 245 TO: 246
+20200613-01:35:28.913056000 : Received SequenceReset FROM: 249 TO: 250
+20200613-01:35:28.915526000 : ResendRequest for messages FROM: 245 TO: 252 has been satisfied.
+20200613-01:35:28.916007000 : Processing QUEUED message: 253
+20200613-01:35:28.939715000 : MsgSeqNum too high, expecting 254 but received 255
+20200613-01:35:28.939945000 : Sent ResendRequest FROM: 254 TO: 0
+20200613-01:35:28.940579000 : MsgSeqNum too high, expecting 254 but received 256
+20200613-01:35:28.940597000 : Already sent ResendRequest FROM: 254 TO: 254.  Not sending another.
+20200613-01:35:28.941439000 : MsgSeqNum too high, expecting 254 but received 257
+20200613-01:35:28.941459000 : Already sent ResendRequest FROM: 254 TO: 254.  Not sending another.
+20200613-01:35:28.985703000 : Received logout request
+20200613-01:35:28.985954000 : Sending logout response
+20200613-01:35:28.985977000 : Disconnecting
+20200613-01:35:28.986194000 : Logon state is not valid for message
+20200613-01:35:28.986250000 : Logon state is not valid for message
+20200613-01:35:28.986295000 : Logon state is not valid for message
+20200613-01:35:28.986331000 : MsgSeqNum too high, expecting 255 but received 258
+20200613-01:35:28.986476000 : Sent ResendRequest FROM: 255 TO: 0
+20200613-01:36:32.931776000 : Received logon request
+20200613-01:36:32.931991000 : Responding to logon request
+20200613-01:36:32.932007000 : MsgSeqNum too high, expecting 255 but received 259
+20200613-01:36:32.932168000 : Sent ResendRequest FROM: 255 TO: 0
+20200613-01:36:32.932408000 : Received ResendRequest FROM: 293 TO: 0
+20200613-01:36:32.932578000 : Sent SequenceReset TO: 296
+20200613-01:36:32.936763000 : ResendRequest for messages FROM: 255 TO: 258 has been satisfied.
+20200613-01:36:32.936820000 : Received SequenceReset FROM: 258 TO: 261
+20200613-01:36:33.002976000 : Received logout request
+20200613-01:36:33.003062000 : Sending logout response
+20200613-01:36:33.003072000 : Disconnecting
+20200613-01:37:39.425163000 : Received logon request
+20200613-01:37:39.425381000 : Responding to logon request
+20200613-01:37:39.500925000 : Received logout request
+20200613-01:37:39.501006000 : Sending logout response
+20200613-01:37:39.501015000 : Disconnecting
+20200613-01:39:06.505134000 : Received logon request
+20200613-01:39:06.505410000 : Responding to logon request
+20200613-01:39:06.574052000 : Received logout request
+20200613-01:39:06.574141000 : Sending logout response
+20200613-01:39:06.574151000 : Disconnecting
+20200613-01:47:58.744031000 : Created session
+20200613-01:48:02.975653000 : Received logon request
+20200613-01:48:02.975827000 : Responding to logon request
+20200613-01:48:03.103767000 : Socket Error: Connection reset by peer.
+20200613-01:48:03.103887000 : Disconnecting
+20200613-01:48:19.043571000 : Received logon request
+20200613-01:48:19.043728000 : Responding to logon request
+20200613-01:48:19.113098000 : Received logout request
+20200613-01:48:19.113182000 : Sending logout response
+20200613-01:48:19.113191000 : Disconnecting
+20200613-01:50:36.266833000 : Received logon request
+20200613-01:50:36.266983000 : Responding to logon request
+20200613-01:50:36.334921000 : Received logout request
+20200613-01:50:36.335003000 : Sending logout response
+20200613-01:50:36.335013000 : Disconnecting
+20200613-01:56:11.793404000 : Created session
+20200613-01:56:40.397517000 : Received logon request
+20200613-01:56:40.397686000 : Responding to logon request
+20200613-01:56:40.474107000 : Received logout request
+20200613-01:56:40.474207000 : Sending logout response
+20200613-01:56:40.474217000 : Disconnecting
+20200613-03:28:42.287445000 : Created session
+20200613-03:28:51.059200000 : Received logon request
+20200613-03:28:51.059430000 : Responding to logon request
+20200613-03:28:51.129577000 : Received logout request
+20200613-03:28:51.129658000 : Sending logout response
+20200613-03:28:51.129668000 : Disconnecting
+20200613-03:29:31.242798000 : Created session
+20200613-03:29:35.907810000 : Received logon request
+20200613-03:29:35.908059000 : Responding to logon request
+20200613-03:29:35.976512000 : Received logout request
+20200613-03:29:35.976597000 : Sending logout response
+20200613-03:29:35.976607000 : Disconnecting
+20200613-03:50:58.232107000 : Created session
+20200613-03:51:02.168965000 : Received logon request
+20200613-03:51:02.169206000 : Responding to logon request
+20200613-03:51:02.240075000 : Received logout request
+20200613-03:51:02.240161000 : Sending logout response
+20200613-03:51:02.240171000 : Disconnecting
+20200613-03:51:53.654546000 : Received logon request
+20200613-03:51:53.654752000 : Responding to logon request
+20200613-03:51:53.726238000 : Received logout request
+20200613-03:51:53.726325000 : Sending logout response
+20200613-03:51:53.726335000 : Disconnecting
+20200613-03:52:14.741145000 : Received logon request
+20200613-03:52:14.741371000 : Responding to logon request
+20200613-03:52:14.810025000 : Received logout request
+20200613-03:52:14.810106000 : Sending logout response
+20200613-03:52:14.810116000 : Disconnecting
+20200613-03:52:35.778456000 : Created session
+20200613-03:52:38.169658000 : Received logon request
+20200613-03:52:38.169904000 : Responding to logon request
+20200613-03:52:38.240911000 : Received logout request
+20200613-03:52:38.241063000 : Sending logout response
+20200613-03:52:38.241078000 : Disconnecting
+20200613-03:53:52.754867000 : Created session
+20200613-03:53:59.659886000 : Received logon request
+20200613-03:53:59.660063000 : Responding to logon request
+20200613-03:53:59.736601000 : Socket Error: Connection reset by peer.
+20200613-03:53:59.736706000 : Disconnecting
+20200613-03:54:25.292861000 : Received logon request
+20200613-03:54:25.293066000 : Responding to logon request
+20200613-03:54:25.365165000 : Received logout request
+20200613-03:54:25.365245000 : Sending logout response
+20200613-03:54:25.365255000 : Disconnecting
+20200613-05:16:31.751520000 : Created session
+20200613-05:16:50.504833000 : Received logon request
+20200613-05:16:50.504994000 : Responding to logon request
+20200613-05:16:50.620924000 : Received logout request
+20200613-05:16:50.621009000 : Sending logout response
+20200613-05:16:50.621018000 : Disconnecting
+20200825-12:47:46.597773000 : Created session
+20200825-12:49:51.463945000 : Received logon request
+20200825-12:49:51.464170000 : Responding to logon request
+20200825-12:49:51.523260000 : Received logout request
+20200825-12:49:51.523410000 : Sending logout response
+20200825-12:49:51.523422000 : Disconnecting
+20200825-12:50:13.150735000 : Received logon request
+20200825-12:50:13.150884000 : Responding to logon request
+20200825-12:50:13.223178000 : Received logout request
+20200825-12:50:13.223350000 : Sending logout response
+20200825-12:50:13.223372000 : Disconnecting
